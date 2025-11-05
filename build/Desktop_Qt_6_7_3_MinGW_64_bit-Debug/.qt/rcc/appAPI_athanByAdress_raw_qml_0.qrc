@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/API_athanByAdress/">
+    <file alias="Main.qml">C:/Users/Hp_7/Documents/API_athanByAdress/Main.qml</file>
+    <file alias="img.qrc">C:/Users/Hp_7/Documents/API_athanByAdress/img.qrc</file>
+    <file alias="img/athan.png">C:/Users/Hp_7/Documents/API_athanByAdress/img/athan.png</file>
+  </qresource>
+</RCC>
+

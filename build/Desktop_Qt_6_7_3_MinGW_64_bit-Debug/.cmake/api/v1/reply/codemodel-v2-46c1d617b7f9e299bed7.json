@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0add7bba903d24d0d78d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "API_athanByAdress",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-12dd9067930af796a44f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-41cec88eaec76ce3dbb4.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-16c7e066b0c1e8958957.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-32d8e557e93e1ec1c586.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress-Debug-80cf902dc990f5b2a73d.json",
+					"name" : "appAPI_athanByAdress",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_autogen-Debug-82e231574b5d7e91b8c7.json",
+					"name" : "appAPI_athanByAdress_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_autogen_timestamp_deps-Debug-78ba1a008cb3d35f544f.json",
+					"name" : "appAPI_athanByAdress_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_qmlimportscan-Debug-4ec995675a2e72c7761c.json",
+					"name" : "appAPI_athanByAdress_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_qmllint-Debug-1f3fd11d66b15b31dbc3.json",
+					"name" : "appAPI_athanByAdress_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_qmllint_json-Debug-2627d175f4c14104db67.json",
+					"name" : "appAPI_athanByAdress_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_qmllint_module-Debug-671fe97f18b5b320dfa0.json",
+					"name" : "appAPI_athanByAdress_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_qmltyperegistration-Debug-7d05742fad47260358c7.json",
+					"name" : "appAPI_athanByAdress_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAPI_athanByAdress_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAPI_athanByAdress_tooling-Debug-199534ef84c954c27d8d.json",
+					"name" : "appAPI_athanByAdress_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Hp_7/Documents/API_athanByAdress/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Hp_7/Documents/API_athanByAdress"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

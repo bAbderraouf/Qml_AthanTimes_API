@@ -1,0 +1,5 @@
+module API_athanByAdress
+typeinfo appAPI_athanByAdress.qmltypes
+prefer :/qt/qml/API_athanByAdress/
+Main 1.0 Main.qml
+

@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Hp_7/Documents/API_athanByAdress
+-cmake-output
+-output-file
+C:/Users/Hp_7/Documents/API_athanByAdress/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/qml_imports/appAPI_athanByAdress_build.cmake
+-importPath
+C:/Users/Hp_7/Documents/API_athanByAdress/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/API_athanByAdress
+-importPath
+C:/Users/Hp_7/Documents/API_athanByAdress/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.3/mingw_64/qml
+-qrcFiles
+C:/Users/Hp_7/Documents/API_athanByAdress/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/qmake_API_athanByAdress.qrc
+C:/Users/Hp_7/Documents/API_athanByAdress/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/appAPI_athanByAdress_raw_qml_0.qrc
