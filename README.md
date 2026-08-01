@@ -7,8 +7,7 @@ This project demonstrates the integration of **C++** and **QML** to build a resp
 ▶️ Full gameplay video: 🔗 Portfolio : https://babderraouf.github.io/portfolio/
 
 # Screenshot
-![ChessGame Screenshot]().
-<img width="398" height="579" alt="image" src="https://github.com/user-attachments/assets/7b046ae0-370d-43a0-b7c1-9dfc64a9885e" />
+![ChessGame Screenshot](img/athan.gif).
 
 ## ✨ Features
 
