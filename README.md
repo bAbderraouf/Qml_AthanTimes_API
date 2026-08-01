@@ -74,6 +74,6 @@ git clone https://github.com/bAbderraouf/Qml_AthanTimes_API.git
 
 **Abderraouf**
 
-GitHub: https://github.com/bAbderraouf
+GitHub: https://github.com/bAbderraouf  
 🔗 Portfolio : https://babderraouf.github.io/portfolio/
 
